@@ -4,7 +4,7 @@ HTML, CSS, JS -> React & Typescript
 
 Troubleshooting Layout problems -> Fast UI development
 
-Python -> Sending data from place to place over network 
+Python -> Sending data from place to place over a network 
 
 Technical Goals - 2026 - 2028
 
