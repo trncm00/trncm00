@@ -1,17 +1,22 @@
-Programming GOALS - 2026 - 2027
+Programming Goals
+2026 - 2027
 
-HTML, CSS, JS -> React & Typescript
+<b>HTML, CSS, JS</b> -> React & Typescript
 
-Troubleshooting Layout problems -> Fast UI development
+<b>Troubleshooting Layout problems</b> -> Fast UI development
 
-Python -> Sending data from place to place over a network 
+<b>Python</b> -> re-learning python
+<s> Sending data from place to place over a network</s> 
 
-Technical Goals - 2026 - 2028
+Technical Goals 
+2026 - 2028
 
 Blender
 
-Dante
-
+Shure Pro Level 1 - 3
+  
+Dante Level One
+  
 Wireshark
 
 <!---
