@@ -40,8 +40,9 @@ In html, some html tags are Block level.They <i>contain</I> the content. They ta
 A coder specifies their height with css and the web browser will assign and re-assign that at the frame rate computer refreshes at. 
 
 Inline level html tags just <I>wrap</i> content, which is variable. Content could be a film, a poem, anything. It takes rules from its parent.In css, one sets the rules to the parent it lives in or to the child-item itself. 
-See how the words <i> contain </I>and <I>wrap</i> are <I>italicized</I>? Inline level code.
-<div> See how this takes up the entire line>?</div>, its wrapped in block level html unlike this line here. 
+
+See how the words <i> contain </I> and <i> wrap</i> are <i>italicized</I> but they share one line? Each <I>italicized word</I> is wrapped in basic inline level code.
+<div style ="color:red;">Seven words take up the entire line </div>
 
 <!---
 trncm00/trncm00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
